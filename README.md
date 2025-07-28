@@ -10,4 +10,4 @@ O objetivo do curso é aprender os fundamentos da linguagem Kotlin, desde concei
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git```
+   git clone https://github.com/CleitonOrtega/kotlin-course.git```
