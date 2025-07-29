@@ -1,5 +1,6 @@
 package com.mercadolivro
 
+/*
 fun retornaNumeroPorExtenso(numero: Int): String{
     if(numero == 5){
         return "Cinco"
@@ -14,3 +15,5 @@ fun main(){
     println(retornaNumeroPorExtenso(6))
     println(retornaNumeroPorExtenso(12))
 }
+
+ */
