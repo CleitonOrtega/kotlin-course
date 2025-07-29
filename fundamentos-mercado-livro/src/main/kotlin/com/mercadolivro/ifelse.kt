@@ -1,5 +1,6 @@
 package com.mercadolivro
 
+/*
 fun main(){
     parOuImpar(2)
     parOuImpar(3)
@@ -41,3 +42,5 @@ fun resultadoDaNota(nota: Int){
         println("O aluno tirou ${nota} de nota\nEle esta reprovado!")
     }
 }
+
+ */
