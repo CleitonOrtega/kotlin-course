@@ -1,5 +1,5 @@
 package com.mercadolivro
-
+/*
 fun main(){
     var nome = "Cleiton"
     val NOME = "Cleiton"
@@ -19,3 +19,5 @@ class variaveis {
         testeLateInit = "Teste"
     }
 }
+
+ */
