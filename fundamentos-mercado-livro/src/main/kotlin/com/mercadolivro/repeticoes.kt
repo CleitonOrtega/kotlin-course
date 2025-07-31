@@ -1,5 +1,6 @@
 package com.mercadolivro
 
+/*
 fun main(){
     printa1a10()
     printa10a1()
@@ -48,7 +49,4 @@ fun printaRange(inicio: Int, fim: Int){
         println(numero)
     }
 }
-
-
-
-
+ */
