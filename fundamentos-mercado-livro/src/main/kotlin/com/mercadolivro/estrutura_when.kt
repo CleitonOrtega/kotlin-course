@@ -1,7 +1,7 @@
 package com.mercadolivro
-
+/*
 fun main(){
-    /*
+
     val x = 19
     when(x){
         5, -5 -> println("x == 5")
@@ -15,7 +15,7 @@ fun main(){
         !in 16..20 -> println("Numero não está no range de 16 a 20")
         else -> println("Numero não mapeado!")
     }
-     */
+
     when{
         comecaComOi(5) -> println("5")
 //        comecaComOi("oi, tudo bem?") -> println("oi, tudo bem?")
@@ -31,3 +31,6 @@ fun comecaComOi(x: Any): Boolean{
         else -> false
     }
 }
+
+
+ */
